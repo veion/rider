@@ -1,2 +1,1 @@
-# rider
-Techrider Veion
+# Techrider Veion
